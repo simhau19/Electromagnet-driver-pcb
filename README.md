@@ -1,2 +1,2 @@
 # Electromagnet-driver-pcb
-[embed]Audiovisualizer PCB.pdf[/embed]
+![embed]Audiovisualizer%20PCB.pdf[/embed]
