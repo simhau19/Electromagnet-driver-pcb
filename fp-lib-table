@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "ESP32-DEVKIT-V1")(type "KiCad")(uri "C:/Users/Simen/OneDrive - NTNU/NTNU/4. sem (V2023)/Elsys prosjekt - TTT4270/ESP32-DEVKIT-V1")(options "")(descr ""))
+  (lib (name "SJ1-3555NG")(type "KiCad")(uri "C:/Users/Simen/OneDrive - NTNU/NTNU/4. sem (V2023)/Elsys prosjekt - TTT4270/SJ1-3555NG")(options "")(descr ""))
+)
